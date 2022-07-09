@@ -66,6 +66,9 @@ mat %>%
           , theta = 0)
 
 
+# get this file and save in the dir
+# https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/phalzer_forest_01_4k.hdr
+
 
 # if previous plot looks ok - render it - takes some time
 render_highquality(
